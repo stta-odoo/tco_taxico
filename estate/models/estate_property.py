@@ -26,4 +26,5 @@ class Property(models.Model):
         default = "new",
         copy = False,
     )
+    # Exercise of Ch.6-1 is done in Ch.2
 
